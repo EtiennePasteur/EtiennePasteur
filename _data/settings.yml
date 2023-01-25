@@ -1,0 +1,159 @@
+#-------------------------------
+# Site Settings
+title: Etienne Pasteur
+logo: '/images/logo.png'
+description: Etienne – Frontend Web Developer based in Lyon - France. I specialize in creating beautiful, user-friendly websites and applications that look great, function well, and are easy to maintain.
+keywords: Pasteur, Etienne, Portfolio, Lyon, Informatique, Developer, Développeur, Epitech, CV, Frontend, Typescript, Angular, France, Vuejs, Nodejs, Freelance
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themselves.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Work'
+      url: '/work/'
+    - title: 'Contact'
+      url: '/contact/'
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Etienne Pasteur
+  author__bio: I'm passionate about creating websites and applications that are not only aesthetically pleasing, but also highly functional. I strive to create sites and apps that are responsive and accessible to all users.
+  author__avatar: '/images/memoji.png'
+
+social:
+- {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/etiennepasteur/"}
+- {icon: "ion-logo-github", link: "https://github.com/EtiennePasteur/"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero__title: Hey everyone, I’m Etienne Pasteur
+  hero__description: Hi 👋 I'm Etienne – Frontend Web Developer based in Lyon - France. I specialize in creating beautiful, user-friendly websites and applications that look great, function well, and are easy to maintain.
+  hero__image: "/images/desk-setup.jpg"
+
+
+#-------------------------------
+# Logos Settings
+logos:
+  enable: true
+  logos__title: I’ve worked with some great сompanies
+
+logo__items:
+  - name: OVHcloud
+    link: "https://www.ovhcloud.com/"
+    image: "/images/brand/ovh.png"
+
+  - name: Stormshield
+    link: "https://www.stormshield.com/"
+    image: "/images/brand/stormshield.png"
+
+  - name: Benefiz
+    link: "https://benefiz.fr/"
+    image: "/images/brand/benefiz.png"
+
+  - name: April
+    link: "https://www.april.fr/"
+    image: "/images/brand/april.png"
+
+  - name: UBG
+    link: "https://ubg-interactive.com/"
+    image: "/images/brand/ubg.png"
+
+
+#-------------------------------
+# Work Settings
+work:
+  enable: true
+  work__title: Work
+  work__description: I have a proven track record of success in developing projects from various size for various companies.
+
+
+#-------------------------------
+# Testimonials Section
+testimonials:
+  enable: true
+
+testimonial__title: Testimonials
+testimonial__description:
+
+testimonial__items:
+  - name: "Jean Plancher"
+    image: "/images/testimonial/testimonial-1.jpg"
+    designation: "Random dude"
+    content : "I had the chance to work with Etienne on multiple projects, and I can only recommend him. Collaboration and conscientiousness are his watchwords and technologies have no secret for this digital native."
+
+  - name: "Romuald Nave"
+    image: "/images/testimonial/testimonial-2.jpg"
+    designation: "RGPD Web"
+    content : "Etienne is a passionate, conscientious and involved developer. Working with him is to ensure the production of a neat and robust code. His taste for the job and his human qualities make him a developer that I recommend for your projects."
+
+  - name: "Malick Diagne"
+    image: "/images/testimonial/testimonial-3.jpg"
+    designation: "Neo9"
+    content : "I have worked on several projects with Etienne and it has been a real pleasure. He has a good technical background and adapts quickly to the different challenges that are presented to him. His interest in technology, his multidisciplinarity and his determination make him a good fit."
+
+  - name: "Lionel Sgarbi"
+    image: "/images/testimonial/testimonial-4.jpg"
+    designation: "Neo9"
+    content : "Very satisfied with my collaboration with Etienne. He is a collaborator on whom we can count. The code delivered is of high quality, the alerts are made at the right time and he knows how to modulate his investment according to the project phases."
+
+  - name: "Kevin Labesse"
+    image: "/images/testimonial/testimonial-5.jpg"
+    designation: "Neo9"
+    content : "Etienne is a good developer who works fast and well. He is a strong proposer and adapts quickly to the context of the projects he works on. He also has an excellent relationship with his clients."
+
+  - name: "François Gonnet"
+    image: "/images/testimonial/testimonial-6.jpg"
+    designation: "UBG Digital Media"
+    content : "Etienne is an excellent full-stack developer. His multidisciplinarity allows him to understand complex IoT and Web projects while being a force of proposal. Lead Developer on many projects, he kept control of each step with a great professionalism."
+
+#-------------------------------
+# Blog Section
+blog:
+  enable: false
+
+blog__settings:
+  blog__title: Writing
+  blog__description:
+
+
+#-------------------------------
+# Footer Settings
+footer__background__image: "/images/background.jpg"
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: xbjelnyr # Add your form_id
+  description: If you're looking for a reliable, experienced frontend developer to help bring your project to life, I'd love to hear from you. Please feel free to reach out to me through the form below.
+  enable__landing: true
+  contact__landing__input__text: Your email address...
+  contact__landing__button__text: Contact me
+
+# NOTE
+# Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
