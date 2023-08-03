@@ -17,10 +17,10 @@ Thank you for your time, and I look forward to working with you.
 
 ---
 
-- 🔭 I’m currently working as **Frontend developer @ OVHCloud**
+- 🔭 I’m currently working as **Frontend developer @ Relyens**
 - 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with UI/UX to redisign my website
+- 🤔 I’m looking for help with UI/UX to redesign my website
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
   **[Linkedin](https://www.linkedin.com/in/etiennepasteur/), [Malt](https://www.malt.fr/profile/etiennepasteur)**
