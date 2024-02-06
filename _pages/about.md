@@ -5,7 +5,7 @@ description: Hi there 👋
 permalink: /about/
 ---
 <div class="profile-pic">
-  <img src="{{site.baseurl}}/images/profil.jpg" loading="lazy">
+  <img src="{{site.baseurl}}/images/profil.jpg" loading="lazy" alt="Picture of myself">
 </div>
 
 My name is Etienne Pasteur, and I'm a freelance frontend developer based in Lyon - France 🇫🇷 I specialize in creating beautiful, user-friendly websites and applications that look great, function well, and are easy to maintain.
@@ -32,16 +32,16 @@ Thank you for your time, and I look forward to working with you.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="{{site.baseurl}}/images/airplane/1.jpg" loading="lazy">
-    <img src="{{site.baseurl}}/images/airplane/2.jpg" loading="lazy">
-    <img src="{{site.baseurl}}/images/airplane/3.jpg" loading="lazy">
-    <img src="{{site.baseurl}}/images/airplane/4.jpg" loading="lazy">
-    <img src="{{site.baseurl}}/images/airplane/5.jpg" loading="lazy">
-    <img src="{{site.baseurl}}/images/airplane/6.jpg" loading="lazy">
+    <img src="{{site.baseurl}}/images/airplane/1.jpg" loading="lazy" alt="Airplane gallery - Picture 1/6">
+    <img src="{{site.baseurl}}/images/airplane/2.jpg" loading="lazy" alt="Airplane gallery - Picture 2/6">
+    <img src="{{site.baseurl}}/images/airplane/3.jpg" loading="lazy" alt="Airplane gallery - Picture 3/6">
+    <img src="{{site.baseurl}}/images/airplane/4.jpg" loading="lazy" alt="Airplane gallery - Picture 4/6">
+    <img src="{{site.baseurl}}/images/airplane/5.jpg" loading="lazy" alt="Airplane gallery - Picture 5/6">
+    <img src="{{site.baseurl}}/images/airplane/6.jpg" loading="lazy" alt="Airplane gallery - Picture 6/6">
   </div>
   <em>Gallery / My passion - Airplanes</em>
 </div>
 
 - When I was a teenager, I discovered two new stars 🔭 with some friends from my high school. Soon after, we were on the news on TF1 📺 (main channel in France).
 
-<p><iframe src="https://player.vimeo.com/video/123090589?h=259d4991c2" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://player.vimeo.com/video/123090589?h=259d4991c2" title="TF1 news report" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
